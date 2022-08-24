@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fahim227" alt="Fahim227" /></a> </p>
 
-- 🔭 I’m currently working on **CustomAll And CityCorporation App**
+- 🔭 I’m currently working on **CustomAll Backend And CityCorporation Mobile App**
 
-- 🌱 I’m currently learning **Mobile Application And Backend Development**
+- 🌱 I’m currently learning **Mobile Application Development, Backend Development and Docker**
 
 - 💬 Ask me about **Python(Django) And Flutter**
 
