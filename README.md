@@ -38,6 +38,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahim227&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fahim227&theme=github_dark)
+<img src="[https://github-readme-streak-stats.herokuapp.com?user=Fahim227&theme=vue-dark](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fahim227&theme=github_dark)" width="49.5%" height="10.0%"/> 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fahim227&theme=github_dark)
