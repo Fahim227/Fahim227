@@ -30,8 +30,11 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fahim227&show_icons=true&locale=en&layout=compact" alt="shishir95" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fahim227&show_icons=true&locale=en&layout=compact" alt="Fahim227" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fahim227&show_icons=true&locale=en" alt="shishir95" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fahim227&show_icons=true&locale=en" alt="Fahim227" /></p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Fahim227&theme=vue-dark" width="49.5%" height="10.0%"/> 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
+
