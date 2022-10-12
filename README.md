@@ -34,7 +34,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fahim227&show_icons=true&locale=en" alt="Fahim227" /></p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Fahim227&theme=vue-dark" width="49.5%" height="10.0%"/> 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Fahim227&theme=vue-dark" width="100%" height="10.0%"/> 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahim227&theme=github_dark)
 
