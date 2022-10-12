@@ -36,7 +36,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Fahim227&theme=vue-dark" width="100.0%" height="5.0%"/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahim227&theme=github_dark)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahim227&theme=github_dark" width="100.0%" height="5.0%"/>
 
 
 <p dir="auto"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://camo.githubusercontent.com/a790610a53e9f9cab9614cfc4417b7dbfb477145f8415a2c604e8bba7892d39d/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f7265706f732d7065722d6c616e67756167653f757365726e616d653d6d647368616461747261686d616e267468656d653d746f6b796f6e69676874" alt="" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fahim227&amp;theme=tokyonight" style="max-width: 100%;"></a>
